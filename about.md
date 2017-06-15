@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer with an addiction to information.  In this, my Nth attempt, I plan to share my learning process as I embark on large scale challenge: Building a technology and team from the ground up.
+I'm a software engineer with an addiction to information.  I hope to keep this updated with personal projects and accounts of specific technical issues I solve in my day to day.
 
 ### Contact me
 
