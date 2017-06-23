@@ -19,5 +19,5 @@ An abstract, simulated ecosystem using a customized version of Flora.js. Two int
 A channeled pub sub system that I wrote to experiment with event based systems and various JS patterns.
 
 ## [FireStarter](/FireStarter) ##
-An experiment with Canvas, a grid of growing green blocks that can be burnt down. The fire, spreads, however, so if you aren't careful, the entire grid could burn down.
+An experiment with Canvas, a grid of growing green blocks that can be burnt down. The fire spreads however, so if you aren't careful, the entire grid could burn down.
 [source](https://www.github.com/tchandler/FireStarter)
